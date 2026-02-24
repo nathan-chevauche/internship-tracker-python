@@ -20,4 +20,3 @@ source .venv/bin/activate  # Or .\.venv\Scripts\activate on Windows
 
 # Run
 python main.py# internship-tracker-python
-A Python CLI application to track and manage internship applications with JSON persistence
