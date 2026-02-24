@@ -19,4 +19,4 @@ python -m venv .venv
 source .venv/bin/activate  # Or .\.venv\Scripts\activate on Windows
 
 # Run
-python main.py# internship-tracker-python
+python main.py
